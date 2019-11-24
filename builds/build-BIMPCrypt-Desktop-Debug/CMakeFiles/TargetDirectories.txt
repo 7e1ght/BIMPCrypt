@@ -1,3 +1,0 @@
-/home/vlad/projects/qt/BIMPCrypt/builds/build-BIMPCrypt-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/vlad/projects/qt/BIMPCrypt/builds/build-BIMPCrypt-Desktop-Debug/CMakeFiles/BIMPCrypt.dir
-/home/vlad/projects/qt/BIMPCrypt/builds/build-BIMPCrypt-Desktop-Debug/CMakeFiles/edit_cache.dir
