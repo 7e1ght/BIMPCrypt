@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/BIMPCrypt.dir/main.cpp.o  -o BIMPCrypt 
